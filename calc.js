@@ -1,5 +1,5 @@
 const sumInt = (a, b) => {
-  return a + b;
+  return Math.round(a + b);
 }
 
 const subtractionInt = (a, b) => {
